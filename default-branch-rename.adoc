@@ -2,11 +2,11 @@
 sidebar: sidebar
 permalink: default-branch-rename.html
 keywords: announcements, branches, github, main, master
-summary: We've converted the default branch from master to main for all NetApp technical documentation repositories in GitHub. This is part of a corporate effort to address non-inclusive language in our technical documentation.
+summary: We've renamed the default branch from master to main for all NetApp technical documentation repositories in GitHub. This change is part of our ongoing efforts to remove non-inclusive language in our technical documentation.
 last_modified: 05-Mar-2021
 ---
 
-= Default branch rename
+= Default branch renamed to "main"
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -14,6 +14,6 @@ last_modified: 05-Mar-2021
 :imagesdir: ./media/
 
 [.lead]
-We've converted the default branch from master to main for all NetApp technical documentation repositories in https://github.com/NetAppDocs/[GitHub^]. This is part of a corporate effort to address non-inclusive language in our technical documentation.
+We've renamed the default branch from master to main for all NetApp technical documentation repositories in https://github.com/NetAppDocs/[GitHub^]. This change is part of our ongoing efforts to remove non-inclusive language in our technical documentation.
 
 image:default-branch-rename.png[]
