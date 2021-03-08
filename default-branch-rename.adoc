@@ -16,4 +16,4 @@ last_modified: 05-Mar-2021
 [.lead]
 We've converted the default branch from master to main for all NetApp technical documentation repositories in https://github.com/NetAppDocs/[GitHub^]. This is part of a corporate effort to address non-inclusive language in our technical documentation.
 
-image:main-branch.png[]
+image:default-branch-rename.png[]
